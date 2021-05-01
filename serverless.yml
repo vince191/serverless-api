@@ -1,4 +1,4 @@
-service: awes-node-api
+service: aws-node-api
 
 custom:
   bucket: mybucket
