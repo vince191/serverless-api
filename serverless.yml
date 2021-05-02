@@ -24,10 +24,6 @@ plugins:
   - serverless-plugin-typescript 
   - serverless-offline
 
-package:
-  include:
-    - config/.env.dev
-
 functions:
   auth:
     handler: auth.authorize
